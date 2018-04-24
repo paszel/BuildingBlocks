@@ -1,0 +1,6 @@
+C:\Projekty\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+C:\Projekty\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+C:\Projekty\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+C:\Projekty\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.csprojResolveAssemblyReference.cache
+C:\Projekty\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+C:\Projekty\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb
